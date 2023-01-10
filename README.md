@@ -24,7 +24,12 @@ This will only work in the US or with a US IP!
 
 ### Python Version
 **The python version fixes issues of some channels not showing.**
-```pip install git+https://www.github.com/justfoolingaround/fzf.py && pip install bs4 && pip install httpx```
+<br>
+```pip install git+https://www.github.com/justfoolingaround/fzf.py```
+<br>
+```pip install bs4```
+<br>
+```pip install httpx```
 <br>
 ```git clone https://github.com/Spaxly/tv-cli && cd ./tv-cli && sudo cp ./tv-cli.py /usr/local/bin```
 
